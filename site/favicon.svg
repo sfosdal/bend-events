@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <rect width="32" height="32" rx="6" fill="#2a3f5f"/>
+  <!-- Mt. Bachelor's snow cone on the skyline behind Pilot Butte, the cinder cone in the middle of town, over the high-desert juniper -->
+  <circle cx="24.5" cy="8" r="2.6" fill="#f2b950"/>
+  <path d="M3 22 L13 8.5 L23 22 Z" fill="#8fa6bf"/>
+  <path d="M10.4 12 L13 8.5 L15.6 12 L14.3 11.2 L13 12.4 L11.7 11.2 Z" fill="#f4f7fa"/>
+  <path d="M10 28 L10 24 Q17 13.5 24 24 L24 28 Z" fill="#9c4f34"/>
+  <path d="M12.4 24.6 Q16.5 21.2 21.2 22.2" stroke="#c97b56" stroke-width="0.9" fill="none"/>
+  <path d="M0 26 Q8 23.5 16 25.5 Q24 23.5 32 26 L32 32 L0 32 Z" fill="#4f6b45"/>
+</svg>
