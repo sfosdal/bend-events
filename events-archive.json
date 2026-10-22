@@ -1,0 +1,20 @@
+{
+ "events": [
+  {
+   "venue": "Tower Theatre",
+   "title": "TAIKOPROJECT",
+   "date": "2026-10-21",
+   "time": "19:30",
+   "url": "https://www.towertheatre.org/event/taikoproject-10-21-26",
+   "type": "arts"
+  },
+  {
+   "venue": "Midtown Ballroom",
+   "title": "Michael Franti Trio",
+   "date": "2026-10-21",
+   "time": "20:00:00",
+   "url": "https://midtownballroom.com/",
+   "type": "concert"
+  }
+ ]
+}
