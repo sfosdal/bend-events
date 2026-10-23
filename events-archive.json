@@ -15,6 +15,14 @@
    "time": "20:00:00",
    "url": "https://midtownballroom.com/",
    "type": "concert"
+  },
+  {
+   "venue": "The Belfry",
+   "title": "Glitterfox Thursday Show",
+   "date": "2026-10-22",
+   "time": "19:00",
+   "url": "https://www.bendticket.com/events/glitterfox-friday-show-10-22-2026",
+   "type": "concert"
   }
  ]
 }
