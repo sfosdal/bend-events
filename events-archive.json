@@ -23,6 +23,36 @@
    "time": "19:00",
    "url": "https://www.bendticket.com/events/glitterfox-friday-show-10-22-2026",
    "type": "concert"
+  },
+  {
+   "venue": "The Belfry",
+   "title": "Glitterfox Friday Show",
+   "date": "2026-10-23",
+   "time": "19:00",
+   "url": "https://www.bendticket.com/events/glitterfox-10-23-2026",
+   "type": "concert"
+  },
+  {
+   "venue": "Tower Theatre",
+   "title": "Ballet Bend Presents - Tentacle Tribe",
+   "date": "2026-10-23",
+   "time": "19:30",
+   "url": "https://www.towertheatre.org/event/ballet-bend-presents---tentacle-tribe-10-23-26",
+   "type": "arts"
+  },
+  {
+   "venue": "Volcanic Theatre Pub",
+   "title": "Cytrus & Mamasboy",
+   "date": "2026-10-23",
+   "time": "20:00:00",
+   "url": "https://www.volcanictheatre.com/"
+  },
+  {
+   "venue": "Midtown Ballroom",
+   "title": "It's A 2000's (Halloween) Party: Bend",
+   "date": "2026-10-23",
+   "time": "21:00:00",
+   "url": "https://www.ticketweb.com/event/its-a-2000s-halloween-party-midtown-tickets/14307174"
   }
  ]
 }
