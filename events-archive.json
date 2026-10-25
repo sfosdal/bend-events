@@ -53,6 +53,22 @@
    "date": "2026-10-23",
    "time": "21:00:00",
    "url": "https://www.ticketweb.com/event/its-a-2000s-halloween-party-midtown-tickets/14307174"
+  },
+  {
+   "venue": "Tower Theatre",
+   "title": "Ballet Bend Presents - Tentacle Tribe",
+   "date": "2026-10-24",
+   "time": "19:30",
+   "url": "https://www.towertheatre.org/event/ballet-bend-presents---tentacle-tribe-10-24-26",
+   "type": "arts"
+  },
+  {
+   "venue": "Silver Moon Brewing",
+   "title": "Jay Webb, Lil Man J",
+   "date": "2026-10-24",
+   "time": "20:00:00",
+   "url": "https://www.ticketweb.com/event/jay-webb-lil-man-j-silver-moon-brewing-tickets/14192714",
+   "type": "concert"
   }
  ]
 }
