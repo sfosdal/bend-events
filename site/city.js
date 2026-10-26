@@ -78,6 +78,7 @@
   var VENUES = {
     // --- Bend: the Old Mill amphitheatre, the Tower, the Midtown rooms, the pubs, the ballpark ---
     'Hayden Homes Amphitheater': { // the 8,000-capacity summer shed on the Deschutes in the Old Mill District — the season runs May to September
+      geo: [44.04833, -121.32153],
       capacity: 8000,
       type: 'concert',
       cssVar: '--v-hayden',
@@ -88,6 +89,7 @@
       alias: /hayden homes amph|les schwab amph/i,
     },
     'Vince Genna Stadium': { // the Bend Elks' ballpark on Roosevelt Avenue — summer collegiate baseball (West Coast League)
+      geo: [43.9679, -121.2543],
       capacity: 3500,
       type: 'sports',
       cssVar: '--v-vincegenna',
@@ -98,6 +100,7 @@
       alias: /vince genna/i,
     },
     'Midtown Ballroom': { // the Midtown Events Center's big room on NE Franklin — Ticketmaster and TicketWeb list different shows, so both ids are read
+      geo: [44.1187, -121.282],
       capacity: 1000,
       type: 'concert',
       cssVar: '--v-midtown',
@@ -108,6 +111,7 @@
       alias: /midtown ballroom/i,
     },
     'Tower Theatre': { // the 1940 Art Deco movie house on Wall Street, a nonprofit stage since 2004 — its own calendar (`cards`) leads, Ticketmaster second
+      geo: [44.066, -121.311],
       capacity: 440,
       type: 'arts',
       cssVar: '--v-tower',
@@ -119,6 +123,7 @@
       alias: /tower theatre/i,
     },
     'Domino Room': { // the Midtown Events Center's small room — Ticketmaster under one id that carries the others' shows
+      geo: [44.05993, -121.30716],
       capacity: 400,
       type: 'concert',
       cssVar: '--v-domino',
@@ -129,6 +134,7 @@
       alias: /domino room/i,
     },
     'Volcanic Theatre Pub': { // the Century Drive pub-and-stage — touring bands, comedy, burlesque
+      geo: [43.9679, -121.2543],
       capacity: 300,
       type: 'concert',
       cssVar: '--v-volcanic',
@@ -139,6 +145,7 @@
       alias: /volcanic theat/i,
     },
     'Silver Moon Brewing': { // the brewery's stage on Hawthorne Avenue
+      geo: [44.06028, -121.30785],
       capacity: 300,
       type: 'concert',
       cssVar: '--v-silvermoon',
@@ -149,6 +156,7 @@
       alias: /silver moon/i,
     },
     'Old St. Francis School': { // McMenamins' 1936 schoolhouse downtown — the Deschutes Historical Museum's History Pub talks (`tribe`)
+      geo: [44.05652, -121.31407],
       capacity: 150,
       type: 'community',
       cssVar: '--v-stfrancis',
@@ -160,6 +168,7 @@
     },
     // --- Sisters and Redmond ---
     'Deschutes County Expo Center': { // the fairgrounds in Redmond — the county fair, the rodeos, the expos and the First Interstate Bank Center's arena shows
+      geo: [44.23637, -121.17749],
       capacity: 6000,
       type: 'community',
       area: 'town',
@@ -171,6 +180,7 @@
       alias: /deschutes county (fair|expo)|first interstate bank center/i,
     },
     'The Belfry': { // the old church hall in Sisters — touring roots and folk acts (`tribe`)
+      geo: [44.29242, -121.54715],
       capacity: 300,
       type: 'concert',
       area: 'town',
@@ -255,6 +265,18 @@
     ics: { name: 'Bend Events', short: 'Bend Events', teams: 'Central Oregon teams — every season', prodid: '-//here.events//bend-events//EN', uidDomain: 'fosdal.net', // the UID domain the whole family issues (the shared ics test pins it)
       desc: 'Upcoming events in Bend\, OR — the Hayden Homes Amphitheater\, the Tower Theatre\, the Midtown Ballroom and Domino Room\, the Volcanic Theatre Pub\, Silver Moon\, Vince Genna Stadium\, the Belfry in Sisters and the Redmond fairgrounds' },
     teams: TEAMS,
+    map: { // the Map view (local-map.js; the ground drawn once by scripts/build-local-map.mjs from OpenStreetMap, committed as site/local-map.json) — every city gets one, Steve, 2026-10-26
+      kind: 'urban',
+      bbox: [43.919, -121.603, 44.341, -121.122], // south, west, north, east — every room, with a margin
+      home: [43.93, -121.338, 44.156, -121.237], // the view at first: the city's own rooms; the fit button shows the whole frame
+      roads: ['motorway', 'trunk', 'primary'],
+      tolerance: 0.6,
+      labels: [
+        { name: 'Bend', lat: 44.058, lon: -121.315, anchor: 'middle' },
+        { name: 'Redmond', lat: 44.27262, lon: -121.17392, anchor: 'middle' },
+        { name: 'Sisters', lat: 44.29095, lon: -121.54925, anchor: 'middle' },
+      ],
+    },
     venues: VENUES,
     feeds: FEEDS,
     defaultOn: DEFAULT_ON,
