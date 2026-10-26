@@ -227,10 +227,10 @@
   // The words the page uses for the place
   var WORDS = {
     teamCity: 'Bend', // the board drops it from the clubs' names
-    presetDefault: 'Every room — the Hayden Homes Amphitheater, the Tower, the Midtown rooms, the pubs, the ballpark, the Belfry in Sisters and the Redmond fairgrounds — every team and type',
+    presetDefault: 'Every venue — the Hayden Homes Amphitheater, the Tower, the Midtown venues, the pubs, the ballpark, the Belfry in Sisters and the Redmond fairgrounds — every team and type',
     presetNeighborhood: 'Bend proper only — the amphitheatre, the Tower, the Midtown Ballroom and Domino Room, the Volcanic, Silver Moon, Old St. Francis and the ballpark',
     presetBig: 'Only the places that hold 2,000 or more — the Hayden Homes Amphitheater, Vince Genna Stadium and the Redmond fairgrounds',
-    phrases: { all: 'Showing everything.', none: 'Showing nothing yet — open Filter and pick some venues.', neighborhood: 'Showing Bend proper only.', big: 'Showing the big rooms only — the amphitheatre, the ballpark and the Redmond fairgrounds.' },
+    phrases: { all: 'Showing everything.', none: 'Showing nothing yet — open Filter and pick some venues.', neighborhood: 'Showing Bend proper only.', big: 'Showing the big venues only — the amphitheatre, the ballpark and the Redmond fairgrounds.' },
   };
 
   // Oregon's public holidays (app.js holidaysFor reads this instead of its
