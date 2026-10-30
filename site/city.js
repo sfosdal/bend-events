@@ -163,7 +163,7 @@
       color: '#ea86d9',
       url: 'https://www.deschuteshistory.org/events/',
       icon: 'https://www.google.com/s2/favicons?domain=www.deschuteshistory.org&sz=128',
-      feed: { kind: 'tribe', url: 'https://www.deschuteshistory.org/wp-json/tribe/events/v1/events', drop: /museum closed|volunteer|rental/i },
+      feed: { kind: 'tribe', chrome: true, url: 'https://www.deschuteshistory.org/wp-json/tribe/events/v1/events', drop: /museum closed|volunteer|rental/i },
       alias: /st\.? francis/i,
     },
     // --- Sisters and Redmond ---
