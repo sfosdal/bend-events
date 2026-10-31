@@ -101,6 +101,30 @@
    "time": "20:00:00",
    "url": "https://www.volcanictheatre.com/",
    "type": "concert"
+  },
+  {
+   "venue": "Tower Theatre",
+   "title": "Warren Miller's Days Off",
+   "date": "2026-10-30",
+   "time": "18:00",
+   "url": "https://www.towertheatre.org/event/warren-millers-days-off-10-30-at-6-pm",
+   "type": "arts"
+  },
+  {
+   "venue": "The Belfry",
+   "title": "Halloween Party! David Jacobs-Strain and the Crunk Mt. Boys with Christopher Worth",
+   "date": "2026-10-30",
+   "time": "20:00",
+   "url": "https://bendticket.com/e/belfry-halloween-extravaganza-with-david-jacob-str",
+   "type": "arts"
+  },
+  {
+   "venue": "Tower Theatre",
+   "title": "Warren Miller's Days Off",
+   "date": "2026-10-30",
+   "time": "21:00",
+   "url": "https://www.towertheatre.org/event/warren-millers-days-off-10-26-at-9-pm",
+   "type": "arts"
   }
  ]
 }
