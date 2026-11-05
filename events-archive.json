@@ -148,6 +148,14 @@
    "date": "2026-11-03",
    "time": "20:00:00",
    "url": "https://www.volcanictheatre.com/"
+  },
+  {
+   "venue": "Tower Theatre",
+   "title": "John Scofield’s “Electrospective“ featuring Oteil Burbridge, Larry Goldings & Adam Deitch",
+   "date": "2026-11-04",
+   "time": "19:30",
+   "url": "https://www.towertheatre.org/event/john-scofields-electrospective-featuring-oteil-burbridge-larry-goldings-adam-deitch",
+   "type": "arts"
   }
  ]
 }
