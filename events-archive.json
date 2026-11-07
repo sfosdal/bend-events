@@ -164,6 +164,38 @@
    "time": "20:00:00",
    "url": "https://midtownballroom.com/",
    "type": "concert"
+  },
+  {
+   "venue": "The Belfry",
+   "title": "Let’s Dance! A Community Social Dance with Outlaw Strings",
+   "date": "2026-11-06",
+   "time": "18:30",
+   "url": "https://citizens4community.com/events/lets-dance-nov-26",
+   "type": "arts"
+  },
+  {
+   "venue": "Tower Theatre",
+   "title": "Fan Halen",
+   "date": "2026-11-06",
+   "time": "19:30",
+   "url": "https://www.towertheatre.org/event/fan-halen-11-6-26",
+   "type": "arts"
+  },
+  {
+   "venue": "Domino Room",
+   "title": "The Last Revel, Quattlebaum",
+   "date": "2026-11-06",
+   "time": "20:00:00",
+   "url": "https://www.ticketweb.com/event/the-last-revel-quattlebaum-domino-room-tickets/14244034",
+   "type": "concert"
+  },
+  {
+   "venue": "Volcanic Theatre Pub",
+   "title": "Stop Light Observations",
+   "date": "2026-11-06",
+   "time": "20:00:00",
+   "url": "https://www.volcanictheatre.com/",
+   "type": "concert"
   }
  ]
 }
