@@ -196,6 +196,14 @@
    "time": "20:00:00",
    "url": "https://www.volcanictheatre.com/",
    "type": "concert"
+  },
+  {
+   "venue": "Tower Theatre",
+   "title": "The Fab Four: Tribute to the Beatles’ featuring the music of A Hard Day's Night and the Hits",
+   "date": "2026-11-07",
+   "time": "19:30",
+   "url": "https://www.towertheatre.org/event/the-fab-four-tribute-to-the-beatles-featuring-the-music-of-a-hard-days-night-and-the-hits",
+   "type": "arts"
   }
  ]
 }
