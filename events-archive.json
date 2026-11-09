@@ -204,6 +204,22 @@
    "time": "19:30",
    "url": "https://www.towertheatre.org/event/the-fab-four-tribute-to-the-beatles-featuring-the-music-of-a-hard-days-night-and-the-hits",
    "type": "arts"
+  },
+  {
+   "venue": "The Belfry",
+   "title": "Jeffrey Martin w/Sam Weber",
+   "date": "2026-11-08",
+   "time": "19:00",
+   "url": "https://bendticket.com/e/jeffrey-martin-w-sam-weber",
+   "type": "concert"
+  },
+  {
+   "venue": "Tower Theatre",
+   "title": "Marc Broussard with support from Cristina Vane",
+   "date": "2026-11-08",
+   "time": "19:30",
+   "url": "https://www.towertheatre.org/event/marc-broussard-11-8-26",
+   "type": "arts"
   }
  ]
 }
