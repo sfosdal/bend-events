@@ -228,6 +228,21 @@
    "time": "19:00",
    "url": "https://www.towertheatre.org/event/kayaking-the-klamath-11-10-27",
    "type": "arts"
+  },
+  {
+   "venue": "The Belfry",
+   "title": "Jeffrey Foucault",
+   "date": "2026-11-11",
+   "time": "19:00",
+   "url": "https://bendticket.com/e/jeffrey-foucault",
+   "type": "concert"
+  },
+  {
+   "venue": "Volcanic Theatre Pub",
+   "title": "Clay Street Unit",
+   "date": "2026-11-11",
+   "time": "20:00:00",
+   "url": "https://www.volcanictheatre.com/"
   }
  ]
 }
