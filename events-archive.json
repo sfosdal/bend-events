@@ -243,6 +243,30 @@
    "date": "2026-11-11",
    "time": "20:00:00",
    "url": "https://www.volcanictheatre.com/"
+  },
+  {
+   "venue": "Old St. Francis School",
+   "title": "Members’ Reception for Music By Hand",
+   "date": "2026-11-12",
+   "time": "17:00",
+   "url": "https://www.deschuteshistory.org/exhibits/",
+   "type": "community"
+  },
+  {
+   "venue": "Tower Theatre",
+   "title": "Girl Winter",
+   "date": "2026-11-12",
+   "time": "19:00",
+   "url": "https://www.towertheatre.org/event/girl-winter-11-12-2026",
+   "type": "arts"
+  },
+  {
+   "venue": "Volcanic Theatre Pub",
+   "title": "Silverada",
+   "date": "2026-11-12",
+   "time": "20:00:00",
+   "url": "https://www.volcanictheatre.com/",
+   "type": "concert"
   }
  ]
 }
