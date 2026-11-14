@@ -267,6 +267,14 @@
    "time": "20:00:00",
    "url": "https://www.volcanictheatre.com/",
    "type": "concert"
+  },
+  {
+   "venue": "Tower Theatre",
+   "title": "Page to Screen: WONKA!",
+   "date": "2026-11-13",
+   "time": "18:00",
+   "url": "https://www.towertheatre.org/event/page-to-screen-wonka-11-13-26",
+   "type": "arts"
   }
  ]
 }
