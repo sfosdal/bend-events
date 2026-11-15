@@ -275,6 +275,30 @@
    "time": "18:00",
    "url": "https://www.towertheatre.org/event/page-to-screen-wonka-11-13-26",
    "type": "arts"
+  },
+  {
+   "venue": "Volcanic Theatre Pub",
+   "title": "Emily Scott Robinson",
+   "date": "2026-11-14",
+   "time": "19:00:00",
+   "url": "https://www.volcanictheatre.com/",
+   "type": "concert"
+  },
+  {
+   "venue": "Tower Theatre",
+   "title": "Bend Comedy Festival Presents: Bo Johnson",
+   "date": "2026-11-14",
+   "time": "19:30",
+   "url": "https://www.towertheatre.org/event/bo-johnson-11-14-26",
+   "type": "arts"
+  },
+  {
+   "venue": "The Belfry",
+   "title": "Goodnight, Texas",
+   "date": "2026-11-14",
+   "time": "20:00",
+   "url": "https://P44P.biz",
+   "type": "concert"
   }
  ]
 }
