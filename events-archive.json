@@ -323,6 +323,30 @@
    "time": "19:30",
    "url": "https://www.towertheatre.org/event/an-evening-with-david-sedaris-11-16-26",
    "type": "arts"
+  },
+  {
+   "venue": "Old St. Francis School",
+   "title": "November History Pub: The Deschutes River; A History",
+   "date": "2026-11-17",
+   "time": "19:00",
+   "url": "https://www.mcmenamins.com/events/274812-the-deschutes-river-a-history",
+   "type": "community"
+  },
+  {
+   "venue": "Tower Theatre",
+   "title": "An Evening With David Sedaris",
+   "date": "2026-11-17",
+   "time": "19:30",
+   "url": "https://www.towertheatre.org/event/an-evening-with-david-sedaris-11-17-26",
+   "type": "arts"
+  },
+  {
+   "venue": "Volcanic Theatre Pub",
+   "title": "Bombargo",
+   "date": "2026-11-17",
+   "time": "20:00:00",
+   "url": "https://www.volcanictheatre.com/",
+   "type": "concert"
   }
  ]
 }
