@@ -347,6 +347,30 @@
    "time": "20:00:00",
    "url": "https://www.volcanictheatre.com/",
    "type": "concert"
+  },
+  {
+   "venue": "Old St. Francis School",
+   "title": "Transgressors Exhibit Opening Reception",
+   "date": "2026-11-18",
+   "time": "17:00",
+   "url": "https://www.deschuteshistory.org/event/transgressors-exhibit-opening-reception/",
+   "type": "community"
+  },
+  {
+   "venue": "Tower Theatre",
+   "title": "NUTCRACKER! Magical Christmas Ballet",
+   "date": "2026-11-18",
+   "time": "19:00",
+   "url": "https://www.towertheatre.org/event/nutcracker-magical-christmas-ballet-11-18-26",
+   "type": "arts"
+  },
+  {
+   "venue": "Volcanic Theatre Pub",
+   "title": "The Cactus Blossoms",
+   "date": "2026-11-18",
+   "time": "20:00:00",
+   "url": "https://www.volcanictheatre.com/",
+   "type": "concert"
   }
  ]
 }
