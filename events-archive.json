@@ -371,6 +371,32 @@
    "time": "20:00:00",
    "url": "https://www.volcanictheatre.com/",
    "type": "concert"
+  },
+  {
+   "venue": "The Belfry",
+   "title": "Sketch and Release",
+   "date": "2026-11-19",
+   "time": "18:00",
+   "url": "https://links.sketchandrelease.net/bel",
+   "type": "concert"
+  },
+  {
+   "venue": "Tower Theatre",
+   "title": "Powderhound: COAC Homegrown Winter Film Festival and Fundraiser",
+   "date": "2026-11-19",
+   "time": "18:30",
+   "url": "https://www.towertheatre.org/event/powderhound-coac-homegrown-winter-film-festival-and-fundraiser-11-19-26",
+   "type": "arts"
+  },
+  {
+   "venue": "Midtown Ballroom",
+   "title": "Berner",
+   "date": "2026-11-19",
+   "time": "20:00:00",
+   "url": "https://www.ticketweb.com/event/berner-midtown-tickets/14339324",
+   "type": "concert",
+   "status": "cancelled",
+   "statusSince": "2026-10-22T19:54:25.371Z"
   }
  ]
 }
