@@ -397,6 +397,35 @@
    "type": "concert",
    "status": "cancelled",
    "statusSince": "2026-10-22T19:54:25.371Z"
+  },
+  {
+   "venue": "Tower Theatre",
+   "title": "Pick Up The Pieces: A Celebration of Motown & Classic Soul",
+   "date": "2026-11-20",
+   "time": "19:30",
+   "url": "https://www.towertheatre.org/event/pick-up-the-pieces-a-celebration-of-motown-classic-soul",
+   "type": "arts"
+  },
+  {
+   "venue": "Domino Room",
+   "title": "Graham Barham, FULLER",
+   "date": "2026-11-20",
+   "time": "20:00:00",
+   "url": "https://www.ticketweb.com/event/graham-barham-fuller-domino-room-tickets/14989033",
+   "type": "concert",
+   "tickets": {
+    "box": null,
+    "resale": 0,
+    "checked": "2026-11-16T23:13:50.519Z",
+    "from": 27.21
+   }
+  },
+  {
+   "venue": "Volcanic Theatre Pub",
+   "title": "Josh Teed",
+   "date": "2026-11-20",
+   "time": "20:15:00",
+   "url": "https://www.volcanictheatre.com/"
   }
  ]
 }
