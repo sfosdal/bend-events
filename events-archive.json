@@ -426,6 +426,36 @@
    "date": "2026-11-20",
    "time": "20:15:00",
    "url": "https://www.volcanictheatre.com/"
+  },
+  {
+   "venue": "The Belfry",
+   "title": "The Smoke Drifters – “Headwaters” Album Release Party",
+   "date": "2026-11-21",
+   "time": "19:00",
+   "url": "https://bendticket.com/e/smoke-drifters",
+   "type": "concert"
+  },
+  {
+   "venue": "Midtown Ballroom",
+   "title": "GWAR, Midnight, Mac Sabbath, Nailed Shut",
+   "date": "2026-11-21",
+   "time": "19:00:00",
+   "url": "https://www.ticketweb.com/event/gwar-midnight-mac-sabbath-nailed-midtown-tickets/14877553",
+   "type": "concert",
+   "tickets": {
+    "box": null,
+    "resale": 0,
+    "checked": "2026-11-21T00:23:46.183Z",
+    "from": 43.68
+   }
+  },
+  {
+   "venue": "Tower Theatre",
+   "title": "Schism, a Tribute to Tool",
+   "date": "2026-11-21",
+   "time": "19:30",
+   "url": "https://www.towertheatre.org/event/schism-a-tribute-to-tool",
+   "type": "arts"
   }
  ]
 }
